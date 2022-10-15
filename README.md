@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning C#
 - 
-- 📫 How to reach me +905320571641 - sithban2@gmail.com
+- 📫 How to reach me sithban2@gmail.com
 
 <!---
 EfeKaya1/EfeKaya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
