@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning C# 
 - 📍 Living in Turkey 
-- Efe is taking long training to develop an end-to-end web project and is very excited about web projects and team works. He is also a sophomore in high school and is really thrilled to study abroad and take part in serious projects.
+- Efe is taking long training to develop an end-to-end web project and is very excited about new team works. He is also a sophomore in high school and is really thrilled to study abroad and take part in serious projects.
 - 📫 How to reach me sithban2@gmail.com - Discord: sithban1#6383 - +905056784136
 
 <!---
