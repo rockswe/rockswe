@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @EfeKaya1
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning C# 
-- 📍 Living in Turkey 
-- Efe is taking long training to develop an end-to-end web project and is very excited about new team works. He is also a sophomore in high school and is really thrilled to study abroad and take part in serious projects.
-- 📫 How to reach me sithban2@gmail.com - Discord: sithban1#6383 - +905056784136
+- 👋 Hi, I’m @Efe8
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning GoLang, Docker, Kubernetes, Bash, etc.
+- 📍 Living in the United States
+- 📫 How to reach me sithban2@gmail.com - Discord: southpark1 - +1(435)289-7088
 
 <!---
 EfeKaya1/EfeKaya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
