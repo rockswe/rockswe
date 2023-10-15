@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/thatway333" target="blank"><img src="https://img.shields.io/twitter/follow/thatway333?logo=twitter&style=for-the-badge" alt="thatway333" /></a> </p>
+
 
 - 🌱 I’m currently learning **GoLang, Docker, Kubernetes**
 
