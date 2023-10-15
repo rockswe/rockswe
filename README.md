@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Kaya</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockswe" alt="rockswe" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/thatway333" target="blank"><img src="https://img.shields.io/twitter/follow/thatway333?logo=twitter&style=for-the-badge" alt="thatway333" /></a> </p>
 
