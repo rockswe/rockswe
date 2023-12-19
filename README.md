@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Efe Kaya</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">Software Engineer working on Compute Infrastructure</h3>
 
 
 
 
 
-- 🌱 I’m currently learning **GoLang, Docker, Kubernetes**
+- 🌱 I’m currently learning **GoLang, Docker, Kubernetes, AWS, Terraform**
 
 - 📫 How to reach me **efekaya@suumail.net - +1(435)289-7088 - efekaya@rockswe.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v-uwwL1ew9rO9cJD-tpK63K3kDeLQmpo/view](https://drive.google.com/file/d/1v-uwwL1ew9rO9cJD-tpK63K3kDeLQmpo/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rypaeI_z9-xA3Fzy5C13WJwMylBuzwb3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thatway333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatway333" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/efekaya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efekaya1" height="30" width="40" /></a>
-<a href="https://instagram.com/lilefevertical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lilefevertical" height="30" width="40" /></a>
+<a href="https://instagram.com/efecitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efecitto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
