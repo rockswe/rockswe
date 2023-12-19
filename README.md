@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **efekaya@suumail.net - +1(435)289-7088 - efekaya@rockswe.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rypaeI_z9-xA3Fzy5C13WJwMylBuzwb3/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1rypaeI_z9-xA3Fzy5C13WJwMylBuzwb3/view?usp=sharing">Resumè<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
