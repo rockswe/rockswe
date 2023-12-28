@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **GoLang, Docker, Kubernetes, AWS, Terraform**
+- 🌱 I’m currently learning **GoLang, Bash, Docker, Kubernetes, AWS, Terraform**
 
 - 📫 How to reach me **efekaya@suumail.net - +1 (435) 289-7088 - efekaya@rockswe.com**
 
