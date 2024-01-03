@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **GoLang, Bash, Docker, Kubernetes, AWS, Terraform**
 
-- 📫 How to reach me **efekaya@suumail.net - +1 (435) 289-7088 - efekaya@rockswe.com**
+- 📫 How to reach me **efekaya@students.suu.edu - efekaya@rockswe.com - +1 (435) 289-7088**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
