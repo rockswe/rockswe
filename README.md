@@ -11,4 +11,4 @@
 <a href="https://instagram.com/efecitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efecitto" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockswe&show_icons=true&locale=en&layout=compact" alt="rockswe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockswe&show_icons=true&locale=en&layout=compact" alt="rockswe" /></p>
