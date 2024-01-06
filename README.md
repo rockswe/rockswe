@@ -1,6 +1,6 @@
 <h1 align="center">Efe Kaya</h1>
 <h3 align="center">Software Engineer</h3>
-
+<h3 align="center">I’m currently working on **GoLang, Bash, Docker, Kubernetes, AWS, Terraform</h3>
 
 
 
