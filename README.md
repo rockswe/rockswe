@@ -1,11 +1,6 @@
 <h1 align="center">Efe Kaya</h1>
 <h3 align="center">Software Engineer</h3>
-<h3 align="center">I’m currently working on **GoLang, Bash, Docker, Kubernetes, AWS, Terraform</h3>
-
-
-
-
-- 🌱 I’m currently working on **GoLang, Bash, Docker, Kubernetes, AWS, Terraform**
+<h3 align="center">Currently working on **GoLang, Bash, Docker, Kubernetes, AWS, Terraform</h3>
 
 - 📫 How to reach me **efekaya@students.suu.edu - efekaya@rockswe.com - +1 (435) 289-7088**
 
