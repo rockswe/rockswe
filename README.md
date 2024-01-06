@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <h4 align="center">Currently working on Go, Bash, Docker, Kubernetes, AWS</h3>
 <h4 align="center">How to reach me **efekaya@students.suu.edu - efekaya@rockswe.com - +1 (435) 289-7088**/h3>
-- 📫 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
