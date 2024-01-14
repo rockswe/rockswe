@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://twitter.com/thatway333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatway333" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/efekaya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efekaya1" height="30" width="40" /></a>
-<a href="https://instagram.com/efecitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efecitto" height="30" width="40" /></a>
+<a href="https://instagram.com/efecitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efecitto" height="30" width="39" /></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockswe&show_icons=true&locale=en&layout=compact" alt="rockswe" /></p>
