@@ -1,7 +1,7 @@
 <h1 align="center">Efe Kaya</h1>
 <h3 align="center">Software Engineer</h3>
 <h4 align="center">Currently working on Go, Bash, Docker, Kubernetes, AWS</h3>
-<h4 align="center">me@efekaya.org | +1 (435) 289-7088</h3>
+<h4 align="center">efekaya.co</h3>
 
 
 <h3 align="center">connect with me:</h3>
