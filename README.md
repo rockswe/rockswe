@@ -1,6 +1,6 @@
 <h1 align="center">Efe Kaya</h1>
 <h3 align="center">Software Engineer</h3>
-<h4 align="center">Currently working on Go, Bash, Docker, Kubernetes, Terraform, AWS</h3>
+<h4 align="center">Go, Docker, Kubernetes, Terraform, AWS</h3>
 <h4 align="center">github@efekaya.co</h3>
 
 
